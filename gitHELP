@@ -11,3 +11,7 @@ git add namefile/. - добавить файлы
 git commit -m 'result'- сохраняет вашу работу
 
 git push origin master/main-- отправляет файлы в репозиторий
+
+
+
+git rm --cached namefile
