@@ -15,3 +15,8 @@ git push origin master/main-- отправляет файлы в репозит�
 
 
 git rm --cached namefile
+
+git rm --cached -r namedir
+
+
+gitclone
